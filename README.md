@@ -1,6 +1,6 @@
 # Exp3-Sobel-edge-detection-filter-using-CUDA-to-enhance-the-performance-of-image-processing-tasks.
 
-<h3> NAME: NITHEESH KUMAR B P</h3>
+<h3> NAME: NITHEESH KUMAR B </h3>
 <h3> REGISTER NO.: 212224230189</h3>
 <h3>EX. NO: 3</h3>
 <h3>DATE: 21/05/2025</h3>
@@ -178,7 +178,7 @@ int main() {
 <img width="350" height="350" alt="RONALDO prime dönem foto" src="https://github.com/user-attachments/assets/546f1ac7-aa76-4db4-a976-7ebc4bad83d0" />
 
 
-<img width="413" height="432" alt="image_77" src="https://github.com/user-attachments/assets/a21e4ba7-8aa6-4b24-b54f-ce05d57f7358" />
+<img width="350" height="350" alt="image_77" src="https://github.com/user-attachments/assets/a21e4ba7-8aa6-4b24-b54f-ce05d57f7358" />
 
 
 ## RESULT:
