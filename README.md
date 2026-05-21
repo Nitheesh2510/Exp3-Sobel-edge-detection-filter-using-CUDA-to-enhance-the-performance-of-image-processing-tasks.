@@ -175,9 +175,10 @@ int main() {
 
 ## OUTPUT:
 
-<img width="275" height="183" alt="pca" src="https://github.com/user-attachments/assets/123fb920-a716-4a82-9606-ce34338d2604" />
+<img width="720" height="720" alt="RONALDO prime dönem foto" src="https://github.com/user-attachments/assets/546f1ac7-aa76-4db4-a976-7ebc4bad83d0" />
 
-<img width="523" height="363" alt="image" src="https://github.com/user-attachments/assets/848ef04f-7689-4e40-8c20-4013780cc889" />
+
+<img width="413" height="432" alt="image_77" src="https://github.com/user-attachments/assets/a21e4ba7-8aa6-4b24-b54f-ce05d57f7358" />
 
 
 ## RESULT:
