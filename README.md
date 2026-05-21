@@ -175,7 +175,7 @@ int main() {
 
 ## OUTPUT:
 
-<img width="720" height="720" alt="RONALDO prime dönem foto" src="https://github.com/user-attachments/assets/546f1ac7-aa76-4db4-a976-7ebc4bad83d0" />
+<img width="350" height="350" alt="RONALDO prime dönem foto" src="https://github.com/user-attachments/assets/546f1ac7-aa76-4db4-a976-7ebc4bad83d0" />
 
 
 <img width="413" height="432" alt="image_77" src="https://github.com/user-attachments/assets/a21e4ba7-8aa6-4b24-b54f-ce05d57f7358" />
